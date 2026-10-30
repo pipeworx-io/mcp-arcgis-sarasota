@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-sarasota",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "City of Sarasota GIS — Sarasota, Florida open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-sarasota",
     "gatewaySlug": "arcgis-sarasota",
-    "sourceHash": "v1-a869ce92e48058af42aab5e92113a4323a6e40680d37d142a21ac95fa5620b3b",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-1b8caa46c608a31fe04f79a7e925310ca9a03481ce270df55f0cc06970eb1852",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
